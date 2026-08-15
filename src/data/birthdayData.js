@@ -24,7 +24,7 @@ export const birthdayData = {
   ],
   letterClosing: "Happy Birthday to my favorite person ✨",
   signature: "Always here for you,",
-  signatureName: "Your favorite headache",
+  signatureName: "Your headache",
   finalMessage: "Hope your day is as wonderfully chaotic and beautiful as you are.",
 };
 
