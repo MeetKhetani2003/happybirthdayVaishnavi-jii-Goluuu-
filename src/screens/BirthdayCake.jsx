@@ -66,7 +66,7 @@ export default function BirthdayCake({ name, onNext }) {
 
   return (
     <div className="flex min-h-full flex-col items-center px-5 pb-10 pt-6 text-center">
-      <h2 className="font-script text-4xl text-pink-500">Blow the candle, {name}</h2>
+      <h2 className="font-script text-4xl text-pink-500">Blow the candle, {name.split(' (')[0]}</h2>
       <p className="mt-1 font-hand text-xl text-rose-400">Make a wish first ✨</p>
 
       <button

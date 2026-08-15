@@ -63,7 +63,7 @@ export default function BalloonGame({ onNext }) {
     return () => clearTimeout(t);
   }, [done, onNext]);
 
-  const words = ["Happy", "Birthday", "favorite", "headache", "❤️"];
+  const words = ["Happy", "Birthday", "Vaishnavijii", "❤️"];
 
   return (
     <div className="flex min-h-full flex-col items-center px-5 pb-10 pt-4 text-center">
